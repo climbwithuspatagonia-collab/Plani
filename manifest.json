@@ -1,1 +1,17 @@
-{"name":"ANGM - Ficha de Terreno y Altitud","short_name":"ANGM Terreno","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#121824","theme_color":"#121824","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "CLIMBWITHUS PATAGONIA | Expediciones y excursiones",
+  "short_name": "CLIMBWITHUS",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e151d",
+  "theme_color": "#101820",
+  "icons": [
+    {
+      "src": "icon-climbwithus.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
